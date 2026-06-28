@@ -10,10 +10,13 @@ API de chatbot con inteligencia artificial que busca productos y convierte divis
 
 ## Configuración
 
-1. Copiar `.env` con las claves de API necesarias:
-   - `OPENAI_API_KEY` — clave de OpenAI
-   - `GEMINI_API_KEY` — clave de Gemini (fallback)
-   - `OPEN_EXCHANGE_RATES_APP_ID` — clave de Open Exchange Rates
+1. Crear un archivo `.env` en la raíz del proyecto con el siguiente contenido:
+
+```env
+OPENAI_API_KEY=sk-...          # Clave de OpenAI (obligatoria)
+GEMINI_API_KEY=AIza...         # Clave de Gemini (opcional, para fallback)
+OPEN_EXCHANGE_RATES_APP_ID=...  # Clave de Open Exchange Rates (obligatoria)
+```
 
 2. Instalar dependencias:
 
