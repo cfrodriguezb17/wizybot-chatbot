@@ -1,0 +1,14 @@
+{
+  "disclaimer": "https://openexchangerates.org/terms/",
+  "license": "https://openexchangerates.org/license/",
+  "timestamp": 1719694800,
+  "base": "USD",
+  "rates": {
+    "EUR": 0.92,
+    "GBP": 0.79,
+    "CAD": 1.36,
+    "JPY": 149.5,
+    "MXN": 17.5,
+    "USD": 1
+  }
+}

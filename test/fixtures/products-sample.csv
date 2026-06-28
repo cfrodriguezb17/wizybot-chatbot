@@ -1,0 +1,6 @@
+displayTitle,embeddingText,url,imageUrl,productType,discount,price,variants,createDate
+"iPhone 12","iPhone 12 Technology technology, celulares Color (Black, Blue, Red, Green, White), Capacity (64gb, 128gb)",https://example.com/iphone12,https://example.com/iphone12.png,Technology,1,"900.0 USD","Color (Black, Blue, Red, Green, White), Capacity (64gb, 128gb)","2024-04-30 16:18:52"
+"iPhone 13","iPhone 13 Technology technology, celulares Color (Black, Blue), Capacity (256gb, 128gb)",https://example.com/iphone13,https://example.com/iphone13.png,Technology,1,"1099.0 USD","Color (Black, Blue), Capacity (256gb, 128gb)","2024-04-30 16:18:52"
+"Apple Watch Series 8 GPS","Apple Watch Series 8 GPS Technology technology, reloj Size (44mm, 40mm, 36mm)",https://example.com/watch,https://example.com/watch.png,Technology,0,"350.0 - 365.0 USD","Size (44mm, 40mm, 36mm)","2024-04-30 16:18:52"
+"Lenovo Ideapad Gaming Chromebook","Lenovo Ideapad Gaming Chromebook Technology technology",https://example.com/chromebook,https://example.com/chromebook.png,Technology,1,"300.0 USD",,"2024-04-30 16:18:52"
+"Sony PlayStation 5 Video Game Console","Sony PlayStation 5 Video Game Console Technology technology",https://example.com/ps5,https://example.com/ps5.png,Technology,1,"499.0 USD",,"2024-04-30 16:18:52"
