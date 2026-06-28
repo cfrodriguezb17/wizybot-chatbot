@@ -51,6 +51,28 @@ npm run test:integration # tests con APIs reales
 }
 ```
 
+### Ejemplos de mensajes
+
+```bash
+curl -X POST http://localhost:8080/chatbot -H "Content-Type: application/json" -d '{"userMessage":"I am looking for a phone"}'
+```
+
+```bash
+curl -X POST http://localhost:8080/chatbot -H "Content-Type: application/json" -d '{"userMessage":"I am looking for a present for my dad"}'
+```
+
+```bash
+curl -X POST http://localhost:8080/chatbot -H "Content-Type: application/json" -d '{"userMessage":"How much does a watch costs?"}'
+```
+
+```bash
+curl -X POST http://localhost:8080/chatbot -H "Content-Type: application/json" -d '{"userMessage":"What is the price of the watch in Euros"}'
+```
+
+```bash
+curl -X POST http://localhost:8080/chatbot -H "Content-Type: application/json" -d '{"userMessage":"How many Canadian Dollars are 350 Euros"}'
+```
+
 ### Response
 
 ```json
